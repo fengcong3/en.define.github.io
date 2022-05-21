@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-define@define.sh
+mailto: define@define.sh
