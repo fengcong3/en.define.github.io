@@ -176,7 +176,7 @@ If you have two interval sets , `A` and `B`, which A is like `[(1, 3), (2, 9), (
 Now, you wana calculate the difference between them(like `A-B`).
 
 * step1: calculate the union of `A` and `B` respectively.
-* step2: calculate the difference between each elements of `A` and each elements of `B`
+* step2: calculate the difference between each elements of `A` and each elements of `B`, and get the intersection of the difference of each elements belong  `A`.
 * step3: calculate the union of the result of step2
 
 ```python
