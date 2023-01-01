@@ -1,2 +1,2 @@
 My personal blog.
-https://define.sh
+https://en.define.sh
